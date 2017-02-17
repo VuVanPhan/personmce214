@@ -1,0 +1,1 @@
+/var/www/html/personmce214/vendor/magento/theme-frontend-blank/web/js/theme.js

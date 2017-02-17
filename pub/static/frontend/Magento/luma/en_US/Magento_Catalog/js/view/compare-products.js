@@ -1,0 +1,1 @@
+/var/www/html/personmce214/vendor/magento/module-catalog/view/frontend/web/js/view/compare-products.js
